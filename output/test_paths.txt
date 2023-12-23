@@ -1,0 +1,10 @@
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
+dataset-small/train/images/guatemala-volcano_00000003_post_disaster.png
